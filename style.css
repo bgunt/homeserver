@@ -1,14 +1,4 @@
 body {
     color:whitesmoke; 
-    background-color: #50af47;  
-    display: block; 
-    margin-left: auto; 
-    margin-right: auto; 
-    width: 100%;
-}
-table {
-    margin: auto;
-    border-spacing: 6rem 0.5rem;
-    font-size:2rem;
-    text-align: left;
+    background-color: #50af47;
 }
