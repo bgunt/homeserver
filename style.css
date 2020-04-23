@@ -1,6 +1,10 @@
 body {
     color:whitesmoke; 
     background-color: #50af47;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 100%;
 }
 table {
     margin: auto;
