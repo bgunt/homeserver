@@ -9,6 +9,8 @@ body {
 h1 {
     color: whitesmoke;
     text-align: center;
+    text-shadow: 0.1rem 0.1rem 0.1rem black;
+
 }
 table {
     margin: auto;
