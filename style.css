@@ -12,18 +12,3 @@ table {
     font-size:2rem;
     text-align: left;
 }
-th {
-    border-bottom: 0.3rem dashed;
-}
-img {
-    height: 24%; 
-    width: 24%; 
-    display:block; 
-    margin-left: auto;
-}
-p {
-    font-size: 6rem;
-    position: relative;
-    font-style: regular;
-    text-align: center;
-}
