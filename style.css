@@ -2,3 +2,19 @@ body {
     color:whitesmoke; 
     background-color: #50af47;
 }
+table {
+    margin: auto;
+    border-spacing: 6rem 0.5rem;
+    font-size:2rem;
+    text-shadow: 0.1rem 0.1rem 0.1rem black;
+    text-align: left;
+}
+th {
+    border-bottom: 0.3rem dashed;
+}
+img {
+    height: 24%; 
+    width: 24%; 
+    display:block; 
+    margin-left: auto;
+}
