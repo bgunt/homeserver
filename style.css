@@ -6,6 +6,10 @@ body {
     margin-right: auto; 
     width: 100%;
 }
+h1 {
+    color: whitesmoke;
+    text-align: center;
+}
 table {
     margin: auto;
     border-spacing: 6rem 0.5rem;
