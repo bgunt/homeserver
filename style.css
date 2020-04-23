@@ -8,7 +8,7 @@ body {
 }
 h1 {
     color: whitesmoke;
-    box-align: center;
+    text-align: center;
 }
 table {
     margin: auto;
@@ -25,10 +25,4 @@ img {
     width: 24%; 
     display:block; 
     margin-left: auto;
-}
-p {
-    font-size: 6rem;
-    position: relative;
-    font-style: italic;
-    text-align: center;
 }
